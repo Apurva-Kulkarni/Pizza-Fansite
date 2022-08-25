@@ -1,0 +1,31 @@
+/*----TAG SELECTORS----*/
+
+body {
+  background-color: #FDEEDC;
+}
+p{
+  font-size: 20px;
+  color: #C21010;
+}
+img:hover{
+  background-color: green;
+}
+
+/*----ID SELECTORS----*/
+#heading {
+  color: #820000;
+  font-size: 80px;
+}
+
+/*----CLASS SELECTORS----*/
+.Whole {
+  height: 200px;
+  background-color: #D07000;
+}
+.Slice{
+  height: 200px;
+  background-color: #FEDB39;
+}
+.circular{
+  border-radius: 100%;
+}
